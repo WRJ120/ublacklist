@@ -1,4 +1,4 @@
----
+*://*.zhihu.com/*---
 title: Subscriptions
 ---
 
